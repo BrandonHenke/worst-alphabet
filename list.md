@@ -10,9 +10,9 @@ F - Foto (En Español)
 G - Gnome, Gnocchi  
 H - Heir  
 I - None?  
-J - Jai Alai (haiəlai)  
+J - Jai Alai (haj.ə.lai)  
 K - Knight  
-L - Llama (jama)  
+L - Llama (ja.ma)  
 M - Mnemonic  
 N - Ngwee (ˈᵑɡʷe.e)  
 O - Ouija  
